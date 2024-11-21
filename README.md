@@ -9,3 +9,12 @@ The idea of this workflow is to quickly create disposable email addresses on dem
 ![CleanShot 2024-11-21 at 09 55 57](https://github.com/user-attachments/assets/6166473a-8e08-4317-99d2-f4617ea856cb)
 
  - ⏎ : To create the email address
+
+# How-to?
+
+- Login to your account on fastmail.com
+- Click on settings, view all settings
+- Go to Privacy & Security, Manage API Tokens.
+- Create the token, copy it.
+- In the workflow, edit the "Run script module"
+- Paste your API token at the begining of the script in the API_Token field.
