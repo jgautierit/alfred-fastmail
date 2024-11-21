@@ -10,7 +10,7 @@ The idea of this workflow is to quickly create disposable email addresses on dem
 
  - ⏎ : To create the email address
 
-# How-to?
+## How-to?
 
 - Login to your account on fastmail.com
 - Click on settings, view all settings
