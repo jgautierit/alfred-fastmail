@@ -16,5 +16,6 @@ The idea of this workflow is to quickly create disposable email addresses on dem
 - Click on settings, view all settings
 - Go to Privacy & Security, Manage API Tokens.
 - Create the token, copy it.
-- In the workflow, edit the "Run script module"
-- Paste your API token at the begining of the script in the API_Token field.
+- Enter your token in the section highlighted in orange below :
+
+![CleanShot 2024-11-21 at 16 00 45](https://github.com/user-attachments/assets/02a32f68-6472-415d-8f16-1b4d31016347)
